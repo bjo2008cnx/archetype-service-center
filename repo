@@ -1,0 +1,3 @@
+driver=com.mysql.driver
+user_name=test
+password=test
